@@ -1097,7 +1097,6 @@ plt.scatter(lat,temp)
 plt.xlabel('Latitude')
 plt.ylabel('Temperature (F)')
 plt.title('Temperature vs Latitude ' + now.strftime("%Y-%m-%d"))
-plt.grid()
 plt.show()
 ```
 
