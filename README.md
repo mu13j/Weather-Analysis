@@ -1,7 +1,7 @@
 
 # Observations
 * Temperature seems to drop as the absolute value of the latitude gets larger
-* Cloudiness and Wind Speed do not appear to have any significant correlation with Latitude
+* Cloudiness and wind speed do not appear to have any significant correlation with latitude
 * Cities near the equator tend to have a higher baseline humidity than more polar cities.
 
 
